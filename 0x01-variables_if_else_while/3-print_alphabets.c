@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.hi>
+
 /**
  * main - use putchar function
  *
@@ -16,7 +17,7 @@ int main(void)
 	}
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
-		putchar(ch)
+		putchar(ch);
 	}
 	putchar('\n');
 	return (0);
