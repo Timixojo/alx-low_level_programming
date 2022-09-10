@@ -15,12 +15,12 @@ int main(void)
 		{
 			putchar((n1 % 10) + '0');
 			putchar((n2 % 10) + '0');
-			if (n1 == 8 && n2 ==9)
+			if (n1 == 8 && n2 == 9)
 				continue;
 			putchar(',');
 			putchar(' ');
 		}
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
