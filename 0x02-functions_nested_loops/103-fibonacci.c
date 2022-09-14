@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints Each new term in the Fibonacci sequence is generated 
+ * main - prints each new term in the Fibonacci sequence is generated
  * by adding the previous two terms
  * Return: 0
  */
